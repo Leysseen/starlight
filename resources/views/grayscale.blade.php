@@ -13,12 +13,6 @@
     <!-- Bootstrap core CSS -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 
-    <!-- Custom fonts for this template -->
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-
-
-    <!-- Custom styles for this template -->
-    <link href="css/grayscale.min.css" rel="stylesheet">
 
 </head>
 
