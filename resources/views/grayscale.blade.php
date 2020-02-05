@@ -152,9 +152,9 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                        <h4 class="text-uppercase m-0">Address</h4>
+                        <h4 class="text-uppercase m-0">Adresse</h4>
                         <hr class="my-4">
-                        <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                        <div class="small text-black-50">358 route de la fontenelle 71290 Cuisery</div>
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@
                         <h4 class="text-uppercase m-0">Email</h4>
                         <hr class="my-4">
                         <div class="small text-black-50">
-                            <a href="#">hello@yourdomain.com</a>
+                            <a href="#">l.doudies@ld-clic.com</a>
                         </div>
                     </div>
                 </div>
@@ -176,9 +176,9 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                        <h4 class="text-uppercase m-0">Phone</h4>
+                        <h4 class="text-uppercase m-0">Mobile</h4>
                         <hr class="my-4">
-                        <div class="small text-black-50">+1 (555) 902-8832</div>
+                        <div class="small text-black-50">+33(0) 770 489 614</div>
                     </div>
                 </div>
             </div>
