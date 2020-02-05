@@ -4,7 +4,17 @@
  * building robust, powerful web applications using Vue and Laravel.
  */
 
+
+
+
 require('./bootstrap');
+/* grayscale */
+require( '../../node_modules/startbootstrap-grayscale/vendor/bootstrap/js/bootstrap.bundle.min.js');
+require( '../../node_modules/startbootstrap-grayscale/vendor/jquery/jquery.min.js');
+require( '../../node_modules/startbootstrap-grayscale/vendor/jquery/jquery.slim.min.js');
+require( '../../node_modules/startbootstrap-grayscale/vendor/jquery-easing/jquery.easing.min.js');
+require( '../../node_modules/startbootstrap-grayscale/vendor/jquery-easing/jquery.easing.compatibility.js');
+require( '../../node_modules/startbootstrap-grayscale/js/grayscale.min');
 
 window.Vue = require('vue');
 
