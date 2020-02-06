@@ -1,4 +1,4 @@
-<section id="signup" class="signup-section">
+<section id="signup" class="signup-section bg-black">
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-lg-8 mx-auto text-center">

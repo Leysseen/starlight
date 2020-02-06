@@ -1,7 +1,6 @@
-<section id="projects" class="projects-section bg-light">
+<section id="projects" class="projects-section bg-white">
     <div class="container">
-
-        <!-- Featured Project Row -->
+<!-- Featured Project Row -->
         <div class="row align-items-center no-gutters mb-4 mb-lg-5">
             <div class="col-xl-8 col-lg-7">
                 <img class="img-fluid mb-3 mb-lg-0" src="images/bg-masthead.jpg" alt="">
