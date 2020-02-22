@@ -19,6 +19,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('gray', function(){
+Route::get('/gray', function(){
     return view('grayscale');
 });
